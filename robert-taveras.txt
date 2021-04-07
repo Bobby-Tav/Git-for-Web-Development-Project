@@ -1,7 +1,6 @@
 link to finished codepen: https://codepen.io/SlowYourRo/pen/vYgJaLL?editors=1100
 
-Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
-
+Copy the questions
     1. What is Semantic HTML? 
     Semantic HTML makes the HTML more meaningful.
     2. What is HTML used for? 
